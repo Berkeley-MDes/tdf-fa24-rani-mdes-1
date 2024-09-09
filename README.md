@@ -37,5 +37,30 @@ Here is a video showing my piece being laser cut. I took longer that expected. I
 ![IMG_4970](https://github.com/user-attachments/assets/781958f3-669c-4c2c-8b5d-ebde55840f3c)
 This is the final product. After I cut it, I sanded it to remove some of the burn marks. In the future, I would add more cut outs and more details to the letters. I would also make the hole smaller since a thread does not need to be that big to fit inside it.
 
+# Progress Report 2 - Week of 09/012/2024 #
+
+## Progress from 09/05/2023 ##
+
+### Diagram ###
+For this report, we needed to explore the cell phone stand file and make a diagram to analyze it. I chose to use the cell phone stand with context. 
+![IMG_4986](https://github.com/user-attachments/assets/2c5f595d-4cdf-42b5-bb86-780920122a36)
+
+I chose to summarize the context bubbles along with the different components in the grasshopper file. I observed a few main categories in the creation of the cell phone stand: starting with the origin, creating the origian for the stand, designing the stand, changing phone visibility, and baking. I highlighting each of these sections in the diagram below.
+![Diagram](https://github.com/user-attachments/assets/f8cfe230-5153-46c5-9698-6e65872bdc56)
+
+
+### Experimenting with files ###
+
+When I first opened the file, I found that I was only able to easily examine the top view. However, I wanted to add more dimension to it in the Z direction, so I decided to play with the z sliders. Specifically, I changed the center Z and the cylinder void radius. This made the shape fuller and more fun to play with.
+![cynlinder](https://github.com/user-attachments/assets/f4e54787-2b53-4b7c-a4cb-a74a5ea2d74f)
+
+I then decided to play with the cell phone parameters and was surprised to encounter warning notes on the file. Because I increased the phone viewing angle too much, the phone to base interface became unstable. Decreasing the sphere 1 radius also seemed to produce similar results. To bring the model back to an acceptible form, I moved the sliders closer to their original range. 
+![angle](https://github.com/user-attachments/assets/706696e1-3713-4215-b284-c5f809a94cba)
+
+### Generating Basic Model ###
+
+I struggled with this part, as I am new to Grasshopper. I tried to follow a tutorial that explained how to make a box. I got to the 2D stage, but got stuck on adding the Z element. I tried dragging the point in the z direction on Rhino but didn't have any luck.
+
+![newform](https://github.com/user-attachments/assets/55518d12-bcb7-44da-b37e-2cd1e1c475be)
 
 ---
