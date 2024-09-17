@@ -93,16 +93,18 @@ The next step was to replace the spherical cell phone base with the box base. I 
 
 ## Update on Project 1 ##
 
-For my project, I've decided to go for the axolotl level. Grasshopper and Rhino are completely new to me, and I think this would be a good chance to try gain a better understanding of theses tools. Because I chose this skill level, I decided that it would not be approporiate to do a cell phone stand. This led me to look into a object ideas. As mentioned above, I was interested in incorporating math equations into my projects - I was a math minor in college and so I thought this would be fun to include. Based on my research, it seems that there are multiple ways that this can be included; Two of the ways I found was to use parametric equations or an expression component with a specific formula. From here, I began experimenting with how this could be converted into an actual product. I brainstormed coaster that included a geometric design, a parametric wall piece for my room, and vases with cool geometric designs. Eventually, I settled on creating a wall planter with parametric designs. 
+For my project, I've decided to go for the axolotl level. Grasshopper and Rhino are completely new to me, and I think this would be a good chance to try gain a better understanding of these tools. Because I chose this skill level, I decided that it would not be approporiate to do a cell phone stand. This led me to look into other object ideas. As mentioned above, I was interested in incorporating math equations into my projects - I was a math minor in college and so I thought this would be fun to include. Based on my research, it seems that there are multiple ways that this can be included; Two of the ways I found was to use parametric equations or an expression component with a specific formula. From here, I began experimenting with how this could be converted into an actual product. I brainstormed coaster that included a geometric design, a parametric wall piece for my room, and vases with cool geometric designs. Eventually, I settled on creating a wall planter with parametric designs. 
 
 My first step was to research examples of this design idea, and I found that it actually existed. I found the following 3d printed planter on Etsy, and decided to use it as inspiration with the goal of replicating it. Here the planter is attached to the wall with command strips, but I hope to make planters that have 2 holes on either side of the planter, so that a string go through, making it a hanging piece. 
 
 ![etsy_planter](https://github.com/user-attachments/assets/ac3a3525-860e-4389-b726-95e32a990b68)
 
-## This leads me to following knowledge gaps - (1) how do I create a vase like structure that has a parametric design? (2) How do I create a flat backing for the planter so that it sits against the wall? (3) How do I punch holes into the sides of the planter so that it can be hung? I will not attempt to solve these questions:
+## This leads me to following knowledge gaps - (1) how do I create a vase like structure that has a parametric design? (2) How do I create a flat backing for the planter so that it sits against the wall? (3) How do I punch holes into the sides of the planter so that it can be hung? I will now attempt to solve these questions:
 
-(1) I found a few tutorials online that discuss building a vase with parametric vases, and so I decided to follow a few of them. This is one vase that I created by multipling circle and using sliders and a Bezier curve to alter the radius and 
+(1) I found a few tutorials online that discuss building a vase with parametric vases, and so I decided to follow a few of them. This is one vase that I created by multipling circle and using sliders and a Bezier curve to alter the radius and curve of each circle. I found that this create an ideal shape for my object, but I wasn't sure that this would be the best approach to creating the edges and curves in my planter. 
 ![vase_design](https://github.com/user-attachments/assets/933ad85f-b7cd-4de1-bba9-c0a51e408046)
+
+I then decided to try another parametric vase tutorial that uses a rich graph mapper. 
 
 
 
