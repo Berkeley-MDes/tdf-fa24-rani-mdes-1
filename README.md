@@ -106,6 +106,67 @@ My first step was to research examples of this design idea, and I found that it 
 
 I then decided to try another parametric vase tutorial that uses a rich graph mapper. 
 
+Title Page
+ 								
+Your name: Rani Sheth
+Your project title: Spiky Wall Planters
+
+Project Challenge Level Rationale
+
+
+
+(Time Lapse of me sitting at my desk working/ hanging both planters on the wall/ placing one planter on my desk)
+
+Hi my name is Rani - today I’m going to show you my computational design behind these spiky wall planters.
+ 										
+For this project, I chose level 3, Axolotl. I have never used Rhino or Grasshopper before, and so I thought this would be a good opportunity to challenge myself and become better at 3D modeling. 
+
+Diagrammatic Analysis of your System: At least one diagrammatic analysis of the system you have used for producing your cell phone stand.
+
+
+My user is a busy student that wants flexibility in decorating their room. ****** 								
+Project Challenge Results
+
+Goal:
+(1) Create planters that can be hung or placed on the user’s desk (separate videos of large planter hung and planter on desk with flowers)
+Challenges: constructing the flat backing
+At first tried to split the object in half (show grasshopper video)
+but then decided to start with a semi circle arc and build up from there (show grasshopper video)
+Solution: flat backing to sit against wall and holes to hang the planters
+
+
+(2) Give the planters customizable ridge patterns, size, and shape (video of both planters side by side )
+Solution: add sliders to the ridge design, width, height, and use a Bezier curve
+Challenges: creating ridge design
+At first tried to use a polygon component to create multi sided stars (show grasshopper video)
+But then decided to use a division component to create pattern (show grasshopper video)
+Also added a slider so the user can adjust how spikey the planters are (show grasshopper video)
+
+Other features
+Can adjust the width and height/ shape of planter (show grasshopper video)
+Minimizes desk space
+Minimal time ~ around 3 hours per planter + can hold water
+
+ 									
+
+Prototype Demonstration: Document/Demonstrate (in the form of photos) your prototype, a working cell phone stand or chosen object.
+ 							
+ 														
+Speculations: Your speculations on the impact of systems thinking and computational design tools: written, sketched and described, and or storyboards (open to interpretation):
+ 								
+I think system thinking is helpful in clearly outline a user’s goals and processes towards an end goal, and this is particularly helpful when working in a team to build a product.
+
+An engineer has their own goals and system, and so does the designer and marketing team (	animation)
+
+Through collaborating and iterating on their systems, they can then work towards meeting their collective end goal (spiral animation)
+										
+ 									
+Conclusion: A concise and effective summary of the project and reflections.
+ 							
+Overall, I’m pretty happy with the end product. Through designing these planters with adjustable features such as pattern, size, and shape, they become fun additions that optimize the user’s working space.
+				
+
+
 
 
 
