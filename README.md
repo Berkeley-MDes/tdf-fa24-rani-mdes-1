@@ -2,12 +2,14 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[week 1](README.md#Progress-Report-1)
 
-week 2, etc...
+[week 2](README.md#Progress-Report-2)
+
+[week 3](README.md#Progress-Report-3)
 
 ---
-# Progress Report 1 - Week of 09/05/2024 #
+# Progress Report 1 #
 
 ## Reflections ##
 This week, I designed and did some research on Rhino, set up my github, explored the wiki page, and laser cut a bookmark. Firstly, although I have had experience with github, I found that I had forgotten a lot of aspects of how to use a github repository. To help, I watched a few videos to refamiliarize myself and asked classmates clarifying questions on what file they were editing and how they were doing so. 
@@ -37,7 +39,7 @@ Here is a video showing my piece being laser cut. I took longer that expected. I
 ![IMG_4970](https://github.com/user-attachments/assets/781958f3-669c-4c2c-8b5d-ebde55840f3c)
 This is the final product. After I cut it, I sanded it to remove some of the burn marks. In the future, I would add more cut outs and more details to the letters. I would also make the hole smaller since a thread does not need to be that big to fit inside it.
 
-# Progress Report 2 - Week of 09/012/2024 #
+# Progress Report 2 #
 
 ## Reflections ##
 
@@ -89,7 +91,7 @@ The next step was to replace the spherical cell phone base with the box base. I 
 
 ![stand_connection](https://github.com/user-attachments/assets/a344ffb0-9ec9-4b96-975f-bc9c7ce22417)
 
-# Progress Report 3 - Week of 09/012/2024 #
+# Progress Report 3 #
 
 ## Update on Project 1 ##
 
