@@ -8,6 +8,8 @@ Welcome to your new GitHub repository!
 
 [week 3](README.md#Progress-Report-3)
 
+[week 4](README.md#Progress-Report-4)
+
 ---
 # Progress Report 1 #
 
@@ -166,7 +168,18 @@ Through collaborating and iterating on their systems, they can then work towards
 Conclusion: A concise and effective summary of the project and reflections.
  							
 Overall, I’m pretty happy with the end product. Through designing these planters with adjustable features such as pattern, size, and shape, they become fun additions that optimize the user’s working space.
-				
+
+# Progress Report 4 #
+
+## 9/26: Ecosystem Map ##
+
+For my ecosystem, I decided to analyze my personal device system. For me, this includes my phone and computer. As a first step, I jotted notes on what information and data was shared for each device, and what feedback loops were involved with these pieces of information. I also want to find connection of information and feedback loops that involved both my phone computer.
+
+![IMG_5087](https://github.com/user-attachments/assets/6a75f7bf-b51d-4c65-87f6-1ae374d224e8)
+
+I then translated these notes into a map. In this map, my phone shares information and data in the form of text messages, photos, the notes app, Instagram, and Spotify. My computer shares information and data related to my browser suggestions and email. For feedback systems, I send text messages to people that contains photos, notes, or other information, they send messages back, and this informs the new photos/ notes/ messages that I choose to send in the future. When I choose songs to listen to on Spotify, data is shared regarding my preferences, and this informs new song recommendations in the future. When I scroll on Instagram and click on suggested products that I like, data is stored on my preferences which informs new Insta suggestions. This information also leads me to go on my computer and search such items on my browser. This also informs new brower suggestions on my computer. For email, when I receive a calendar invite on my computer and click "accept," this leads to new emails that are sent in the future to remind me of the upcoming event.
+
+![IMG_5088](https://github.com/user-attachments/assets/b04a9934-466c-4f6b-ad16-2344388eafff)
 
 
 
