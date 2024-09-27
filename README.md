@@ -95,6 +95,13 @@ The next step was to replace the spherical cell phone base with the box base. I 
 
 # Progress Report 3 #
 
+## Reflections ##
+This week I spent a lot of time going over the computational design system and trying to understand the different parts of it. I found that the best way was to find examples online of different systems being used in real life. In terms of what I learned from my during this week, I learned a lot more of working with Grasshopper and understanding the various components that are involved. I discovered how to create a shape with semi circle shapes and how to inserts holes in a specific aspect of a shape. I spent a lot of time troubleshooting how to create ridges in the shape. I am looking forward to refining my work.
+
+## Speculations ##
+						
+I think system thinking is helpful in clearly outline a user’s goals and processes towards an end goal, and this is particularly helpful when working in a team to build a product. An engineer has their own goals and system, and so does the designer and marketing team. Through collaborating and iterating on their systems, they can then work towards meeting their collective end goal. In terms of AI, I can see AI playing a greater role in the obersation phase, as AI systems could observe human tendencies as supposed to humans making the obervations.
+
 ## Update on Project 1 ##
 
 For my project, I've decided to go for the axolotl level. Grasshopper and Rhino are completely new to me, and I think this would be a good chance to try gain a better understanding of these tools. Because I chose this skill level, I decided that it would not be approporiate to do a cell phone stand. This led me to look into other object ideas. As mentioned above, I was interested in incorporating math equations into my projects - I was a math minor in college and so I thought this would be fun to include. Based on my research, it seems that there are multiple ways that this can be included; Two of the ways I found was to use parametric equations or an expression component with a specific formula. From here, I began experimenting with how this could be converted into an actual product. I brainstormed coaster that included a geometric design, a parametric wall piece for my room, and vases with cool geometric designs. Eventually, I settled on creating a wall planter with parametric designs. 
@@ -108,28 +115,14 @@ My first step was to research examples of this design idea, and I found that it 
 (1) I found a few tutorials online that discuss building a vase with parametric vases, and so I decided to follow a few of them. This is one vase that I created by multipling circle and using sliders and a Bezier curve to alter the radius and curve of each circle. I found that this create an ideal shape for my object, but I wasn't sure that this would be the best approach to creating the edges and curves in my planter. 
 ![vase_design](https://github.com/user-attachments/assets/933ad85f-b7cd-4de1-bba9-c0a51e408046)
 
-I then decided to try another parametric vase tutorial that uses a rich graph mapper. 
 
-Title Page
- 								
-Your name: Rani Sheth
-Your project title: Spiky Wall Planters
-
-Project Challenge Level Rationale
-
-
+## Outline of my Video ##
 
 (Time Lapse of me sitting at my desk working/ hanging both planters on the wall/ placing one planter on my desk)
 
 Hi my name is Rani - today I’m going to show you my computational design behind these spiky wall planters.
  										
 For this project, I chose level 3, Axolotl. I have never used Rhino or Grasshopper before, and so I thought this would be a good opportunity to challenge myself and become better at 3D modeling. 
-
-Diagrammatic Analysis of your System: At least one diagrammatic analysis of the system you have used for producing your cell phone stand.
-
-
-My user is a busy student that wants flexibility in decorating their room. ****** 								
-Project Challenge Results
 
 Goal:
 (1) Create planters that can be hung or placed on the user’s desk (separate videos of large planter hung and planter on desk with flowers)
@@ -149,24 +142,9 @@ Also added a slider so the user can adjust how spikey the planters are (show gra
 Other features
 Can adjust the width and height/ shape of planter (show grasshopper video)
 Minimizes desk space
-Minimal time ~ around 3 hours per planter + can hold water
-
- 									
-
-Prototype Demonstration: Document/Demonstrate (in the form of photos) your prototype, a working cell phone stand or chosen object.
- 							
+Minimal time ~ around 3 hours per planter + can hold water				
  														
-Speculations: Your speculations on the impact of systems thinking and computational design tools: written, sketched and described, and or storyboards (open to interpretation):
- 								
-I think system thinking is helpful in clearly outline a user’s goals and processes towards an end goal, and this is particularly helpful when working in a team to build a product.
-
-An engineer has their own goals and system, and so does the designer and marketing team (	animation)
-
-Through collaborating and iterating on their systems, they can then work towards meeting their collective end goal (spiral animation)
-										
- 									
-Conclusion: A concise and effective summary of the project and reflections.
- 							
+Conclusion: A concise and effective summary of the project and reflections.						
 Overall, I’m pretty happy with the end product. Through designing these planters with adjustable features such as pattern, size, and shape, they become fun additions that optimize the user’s working space.
 
 # Progress Report 4 #
