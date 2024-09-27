@@ -149,6 +149,12 @@ Overall, I’m pretty happy with the end product. Through designing these plante
 
 # Progress Report 4 #
 
+## Reflections ##
+This week was not as eventful for me, since we just finished our first project. For the video, I had to spend sometime remember what tools and visual methods are most effective to help teach the viewer about a product. This week we started learning about microcontrollers and coding. I have experience in both, but it was nice to have a refresher. For troubleshooting, I needed to look up more on visualizing ecosystems and converting that into a map. I also had difficuly setting up my Visual Code properly. I'm looking forward to next week and to solving this problem.
+
+## Speculations ##
+This week we focused on microcontrollers and our video presentations for our first project. For speculations, I would like to learn more about using Arduinos and different sensors that can be involved. I would be curious to learn more about how AI could interact more with our personal device ecosystem in the next 10 years.
+
 ## 9/26: Ecosystem Map ##
 
 For my ecosystem, I decided to analyze my personal device system. For me, this includes my phone and computer. As a first step, I jotted notes on what information and data was shared for each device, and what feedback loops were involved with these pieces of information. I also want to find connection of information and feedback loops that involved both my phone computer.
