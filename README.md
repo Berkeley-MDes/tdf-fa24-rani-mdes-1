@@ -174,16 +174,26 @@ I then translated these notes into a map. In this map, my phone shares informati
 
 To make this file compile and flash, I simply copied and pasted its contents into my existing document. Because it was the first time compiling, it took some time to reach a stable blinking state. At the beginning, it flashed a variety of different colors and at different rates. Finally after around 10 seconds, it stabilized to a blue LED light that blinked slowly.
 
-https://github.com/user-attachments/assets/c2b98e34-0aa1-4905-80e8-50aa137a437c
-
 I then wanted to play with changing how quickly the LED blinks. I tried a few different strategies, although I didn't quite achieve my desired result. First, I found the change_period function and adjust the range to be between 50 and 300, in order to reduce the delay between the LED turning on and off.
 
 ![change_period](https://github.com/user-attachments/assets/4c2e8f74-ef5d-4050-9437-49ae6072dbcf)
 
-After further analysis of the system, I realized that the function was only used if a button was pressed. From there, I decided to adjust the periodicity variable directly. This appeared to alter the blinking rate; however eventually, the blinking stablizied to its original timing. Lastly, I tried reducing the delay between digitalWrite(led_out, HIGH) and digitalWrite(led_out, LOW) directly in the loop() function. Again, this appeared to work at the beginning, but then the LED eventually stabilized to its original timing. Given that I was unable to achieve my dedsired effect, I would like to investigate this file more in order to understand what exactly changes the blinking rate. I think this system could benefit from a new design where there is more documentation on how "Hello World" relates to the blinking of LEDs. The benefit of this system is that there is a separate function for pressing a button, thus making it easier to alter what happens when this action is taken. 
+After further analysis of the system, I realized that the function was only used if a button was pressed. From there, I decided to adjust the periodicity variable directly. This appeared to alter the blinking rate; however eventually, the blinking stablizied to its original timing. Lastly, I tried reducing the delay between digitalWrite(led_out, HIGH) and digitalWrite(led_out, LOW) directly in the loop() function. Again, this appeared to work at the beginning, but then the LED eventually stabilized to its original timing. Given that I was unable to achieve my desired effect, I would like to investigate this file more in order to understand what exactly changes the blinking rate. I think this system could benefit from a new design where there is more documentation on how "Hello World" relates to the blinking of LEDs. The benefit of this system is that there is a separate function for pressing a button, thus making it easier to alter what happens when this action is taken. 
 
-### Flashing and Experimenting with .... ###
+### Experimenting with Hello World ###
 
-### Flashing and Experimenting with .... ###
+I also tried working with the Hello World file, which was much simpler than the previous one. My first difficulty came with using the serial monitor. I kept trying to run the code but didn't see any messages appearing in the monitor. Eventually, I realized that I didn't have the monitor set to Particle rather than the Incoming Port. Once I did this, the messages started to appear correctly. 
+
+For my experimentation, I decided to adjust the message from "Hello World!" to "Hello World, my name is Rani!". This updates the serial monitor to include my new message along with the new number of characters in the message, which is 29. 
+
+![hello_world_rani](https://github.com/user-attachments/assets/1aad72b4-21aa-43da-88f2-7afa9199a16a)
+
+This system is a super simple design, so I don't have many suggestions for improving it. One way I could make the system more complex is by having it be interactive. Perhaps the message starts with "Hello World, my name is XXXX," and then the user has to keep typing letters till they can correctly guess the name in the message. When their guess is correct, the system prints a message on the monitor congratulating them on winning the game. 
+
+### Experimenting with Make It Blink Outside ###
+
+I didn't do much with this file except for running it. The system seems to be much more complicated than the previous ones. With further analysis, I'd like to find a way to make it easier to read and interpret for a user that isn't familiar with this structure of code. 
+
+![IMG_5111 2](https://github.com/user-attachments/assets/e05509f1-21cc-473a-8a17-c4c2c25a42ed)
 
 ---
