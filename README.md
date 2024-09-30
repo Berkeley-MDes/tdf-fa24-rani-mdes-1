@@ -1,5 +1,4 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Rani's TDF Repository
 
 # Outline
 [week 1](README.md#Progress-Report-1)
@@ -9,6 +8,8 @@ Welcome to your new GitHub repository!
 [week 3](README.md#Progress-Report-3)
 
 [week 4](README.md#Progress-Report-4)
+
+[week 5](README.md#Progress-Report-5)
 
 ---
 # Progress Report 1 #
@@ -165,8 +166,25 @@ I then translated these notes into a map. In this map, my phone shares informati
 
 ![IMG_5088](https://github.com/user-attachments/assets/b04a9934-466c-4f6b-ad16-2344388eafff)
 
+# Progress Report 1 #
+
+## Monday 9/30 ##
+
+### Flashing and Experimenting with Make It Blink ###
+
+To make this file compile and flash, I simply copied and pasted its contents into my existing document. Because it was the first time compiling, it took some time to reach a stable blinking state. At the beginning, it flashed a variety of different colors and at different rates. Finally after around 10 seconds, it stabilized to a blue LED light that blinked slowly.
 
 
 
+https://github.com/user-attachments/assets/c2b98e34-0aa1-4905-80e8-50aa137a437c
+
+
+How do these elements work together to make a cohesive whole? How can a system like this benefit a new design you might consider? What are the entry points of this system? What kinds of advantages does it have over others? 
+
+What kinds of ecosystems are missing in your daily life? 
+
+### Flashing and Experimenting with .... ###
+
+### Flashing and Experimenting with .... ###
 
 ---
