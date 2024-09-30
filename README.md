@@ -166,7 +166,7 @@ I then translated these notes into a map. In this map, my phone shares informati
 
 ![IMG_5088](https://github.com/user-attachments/assets/b04a9934-466c-4f6b-ad16-2344388eafff)
 
-# Progress Report 1 #
+# Progress Report 5 #
 
 ## Monday 9/30 ##
 
@@ -174,14 +174,13 @@ I then translated these notes into a map. In this map, my phone shares informati
 
 To make this file compile and flash, I simply copied and pasted its contents into my existing document. Because it was the first time compiling, it took some time to reach a stable blinking state. At the beginning, it flashed a variety of different colors and at different rates. Finally after around 10 seconds, it stabilized to a blue LED light that blinked slowly.
 
-
-
 https://github.com/user-attachments/assets/c2b98e34-0aa1-4905-80e8-50aa137a437c
 
+I then wanted to play with changing how quickly the LED blinks. I tried a few different strategies, although I didn't quite achieve my desired result. First, I found the change_period function and adjust the range to be between 50 and 300, in order to reduce the delay between the LED turning on and off.
 
-How do these elements work together to make a cohesive whole? How can a system like this benefit a new design you might consider? What are the entry points of this system? What kinds of advantages does it have over others? 
+![change_period](https://github.com/user-attachments/assets/4c2e8f74-ef5d-4050-9437-49ae6072dbcf)
 
-What kinds of ecosystems are missing in your daily life? 
+After further analysis of the system, I realized that the function was only used if a button was pressed. From there, I decided to adjust the periodicity variable directly. This appeared to alter the blinking rate; however eventually, the blinking stablizied to its original timing. Lastly, I tried reducing the delay between digitalWrite(led_out, HIGH) and digitalWrite(led_out, LOW) directly in the loop() function. Again, this appeared to work at the beginning, but then the LED eventually stabilized to its original timing. Given that I was unable to achieve my dedsired effect, I would like to investigate this file more in order to understand what exactly changes the blinking rate. I think this system could benefit from a new design where there is more documentation on how "Hello World" relates to the blinking of LEDs. The benefit of this system is that there is a separate function for pressing a button, thus making it easier to alter what happens when this action is taken. 
 
 ### Flashing and Experimenting with .... ###
 
