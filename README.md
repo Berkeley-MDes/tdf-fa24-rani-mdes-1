@@ -221,7 +221,21 @@ To ensure that my button was infact pressing, I also added print statements with
 
 This project differs from the demo tutorial above in that pressing the button alters an LED rather than the delay periodicity between "Hello World" statements. I do feel that the code could have been further simplied, and that it could use more comments and documentation so that a random person can understand it. In terms of how it could be combined into a larger ecosystem, I think it would be cool to translate this code into morse code, where pressing a button alters that LED to transmit a certain morse code message.
 
-#### button_led_pulse ####
+#### fsr_to_ledcolor ####
+
+This tutorial was way easier to follow. I simply circuited my board according to the directions online. The one problem I encountered was not correctly connecting the LED to GND. I thought that you could choose any side of the breadboard as the GND, but then I learned that I have to connect to the side that the arduino is connected to. After altering this, the file worked and correctly altered the color of the LED.
+
+![IMG_5125 2](https://github.com/user-attachments/assets/87452234-5926-491a-8cc5-fa9b2f0318b7)
+
+
+Work through any 3 of the step-by-step tutorials listed here. Note, as shared in class, that if you choose a tutorial with a servo motor you will need to obtain this from either Sudhu, Fareha, or Baurzhan.
+Consider the following:
+- how do these demo projects differ from what we've looked at already in the prior examples?
+- What are some similarities?
+- How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
+- Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
+#### tutorial 3 ####
 
     Work through any 3 of the step-by-step tutorials listed here. Note, as shared in class, that if you choose a tutorial with a servo motor you will need to obtain this from either Sudhu, Fareha, or Baurzhan.
 Consider the following:
