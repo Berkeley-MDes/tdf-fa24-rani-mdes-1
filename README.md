@@ -196,4 +196,38 @@ I didn't do much with this file except for running it. The system seems to be mu
 
 ![IMG_5111 2](https://github.com/user-attachments/assets/e05509f1-21cc-473a-8a17-c4c2c25a42ed)
 
+## Thursday 10/3 ##
+
+### One more introductory demo tutorial ###
+
+For my additional demo, I decided to complete the altering periodicity tutorial, which we had started to complete in class on Monday. This session was interesting because we were using a png of an example circuit to learn how to set up our system to run the file. I have worked with circuitry before, but I found this image file to be extra helpful to see exactly where everything is wired in. In the future, I hope to gain better proficiency in understanding why certain components are places where they are.
+
+Image of my circuitry:
+![IMG_5119](https://github.com/user-attachments/assets/b4533371-0c92-4e90-8a8d-2cdcd46d128d)
+
+It was excited to have the button working! At first, I wired it and forgot the resistor. After looking closely at the image again, I realizes my mistake and added it in. I do think it's odd that the resistors don't have clear labels to differentiate them, but the resistor I chose worked regardless. Below you can see the serial monitor response to me pressing the button. It gave a message indicating that I pressed the button and then changed the periodicity afterwards.
+![button](https://github.com/user-attachments/assets/fbe4420b-a6b1-4939-886d-8b5f3253dca9)
+
+### 3 step-by-step tutorials ###
+
+#### button_led_pulse ####
+
+This tutorial took way longer than I anticipated. I first started by following the circuitry images in the tutorial. One roadblock I encountered was that the button in the tutorial had 4 legs, but the buttons I had only had 2 legs. This maded it harder to interpret how they suggested I circuit the button to the arduino. I began by placeing the button on the left side of the breadboard and connecting a wire on the right side rail of the bottom right leg to the pin D6. After attempting to run the code and having no success, I realized that my wire connecting the bottom leg needed to be on the left side (so that both the button and the connecting wire were located on the same side of bread board). I also needed to flip the LED in order to make it flash. Lastly, I found that it was necessary to alter the code slightly by placing the buttonPressed() function above the setup() function. Below I have a picture of my circuitry while the code is running.
+
+![IMG_5124](https://github.com/user-attachments/assets/b906dc59-75d8-4004-94fb-1722b5fa3454)
+
+To ensure that my button was infact pressing, I also added print statements within the buttonPressed() function and the loop() function to indicate that the button was pressed and a change was occurring.
+![buttonpressed](https://github.com/user-attachments/assets/0fc9ae14-4e4b-4650-885e-ef01669d886f)
+
+This project differs from the demo tutorial above in that pressing the button alters an LED rather than the delay periodicity between "Hello World" statements. I do feel that the code could have been further simplied, and that it could use more comments and documentation so that a random person can understand it. In terms of how it could be combined into a larger ecosystem, I think it would be cool to translate this code into morse code, where pressing a button alters that LED to transmit a certain morse code message.
+
+#### button_led_pulse ####
+
+    Work through any 3 of the step-by-step tutorials listed here. Note, as shared in class, that if you choose a tutorial with a servo motor you will need to obtain this from either Sudhu, Fareha, or Baurzhan.
+Consider the following:
+- how do these demo projects differ from what we've looked at already in the prior examples?
+- What are some similarities?
+- How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
+- Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
+
 ---
