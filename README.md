@@ -11,6 +11,8 @@
 
 [week 5](README.md#Progress-Report-5)
 
+[week 6](README.md#Progress-Report-6)
+
 ---
 # Progress Report 1 #
 
@@ -244,4 +246,27 @@ Consider the following:
 - How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
 - Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
 
+# Progress Report 6 #
+
+## Monday 10/7 ##
+
+The first part of the assignment was to a soldering exercise. Because I have soldered before, it wasn't as challenging to do. The first two attempts were a little messier, and then afterwards I was able to achieve nice and even dots.
+
+![FullSizeRender](https://github.com/user-attachments/assets/29b8937e-18f4-4205-a69d-f9d9d5ba798f)
+
+Downloading the Stemma files and running them proved to be somewhat challenging, as many of the packages weren't installed. I went through the Configure command and tried to look through Particle documentation and other various websites to attempt to install them but found no luck. Eventually, I decided to copy and paste the contents of the Stemma files into the files I already had created that had the packages pre installed. After this, I was able to run the file with the gesture sensor. 
+
+![IMG_5154](https://github.com/user-attachments/assets/dfb92c07-aaed-4a78-8cb1-aa31d4f79920)
+
+### System 1 ###
+
+
+
+### System 2 ###
+
+## Thursday 10/10 ##
+
+### System 3 ###
+
+****
 ---
