@@ -268,5 +268,13 @@ Downloading the Stemma files and running them proved to be somewhat challenging,
 
 ### System 3 ###
 
+For this week, I spent time brainstorming what I wanted to do for the group project. One of my teammates enjoys creating robots and things that move, and the other has interests in P5. I really enjoy working with textiles and wearable products, so we had to think through how we could integrate all of our ideas into one. At first we were thinkng of creating a wearable that could connect heart rate to attraction on a first data. Then we brainstormed other products that could facilitate affection between two people. We came a concept called Penguin pebbling, which is a common form of displaying love for those on the autism spectrum. This led us to come up with an animatronic penguin that can be a means of facilitating affection between two people. 
+
+After solidfying our ideda, we then go to working on our proposal. We decided to use a mechanical 3D printed beak that can open and close to gift a pebble. Other components in our system include an LED to indicate that there is a gift inside the penguin, a servo, a proximity sensor, and a button that the sender presses to trigger the LED. 
+
+![FullSizeRender](https://github.com/user-attachments/assets/f2502d82-1100-43ec-a7a8-aa7d2dac6f25)
+
+Above, we have a sketch of our system and how the different components interact with each other. My main role for the project will be to figure out how to use the Cloud to have the button from the sender trigger the LED on the penguin. 
+
 ****
 ---
