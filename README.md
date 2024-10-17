@@ -278,7 +278,7 @@ After solidfying our ideda, we then go to working on our proposal. We decided to
 
 Above, we have a sketch of our system and how the different components interact with each other. My main role for the project will be to figure out how to use the Cloud to have the button from the sender trigger the LED on the penguin. 
 
-# Progress Report 6 #
+# Progress Report 7 #
 
 
 
