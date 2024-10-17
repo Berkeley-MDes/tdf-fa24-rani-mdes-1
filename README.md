@@ -280,6 +280,23 @@ Above, we have a sketch of our system and how the different components interact 
 
 # Progress Report 7 #
 
+## Reflections ##
+
+I think I performed better than last week. I have some background knowledge working with micro-controllers so I was able to help my teammates troubleshoot how to connect different sensors and edit the associated code. I think I fell behind a little bit on my part of the project, but that was also because my VSCode disconnected from Particle Workbench, which ended up delaying me. I also appreciated how well my project team coordinated with each other. Everyone was good about communicating their progress and were willing to help with aspects of the project that they weren't originally assigned to.
+
+For next steps in my part of the project (connecting the button and LED via the cloud), I plan to connect my code and electronics to my teammate's laptop to see if it works using her VSCode.
+
+## Speculations ##
+
+## Project 2 Progress ##
+
+This week, I spent most of my time figuring out how to publish and subscribe a variable through the coud. As my first step, I thought it best to wire the button, and focus on publishing that component to the Particle console. There is a tutorial on github that discusses how to publish such an action to the console, and so I simply followed that. Below there is a picture of my wiring of the button.
+
+![IMG_5189](https://github.com/user-attachments/assets/d3abaa74-d7ac-49cf-bc86-04e1de9c0d20)
+
+After wiring the button, I then cleaned up the file that was given in the tutorial. For the purpose of this project, I needed to press the button and have that signal sent to the console to be retreived by another photon. Here, is where I encountered problems. My file would not flash despite compiling correctly, and the events that were published to the console did not reflect the action of pressing a button. Below is a screenshot of these events.
+
+![console](https://github.com/user-attachments/assets/095da899-03da-4aa9-acd3-e11fe68dd4b0)
 
 
 ****
