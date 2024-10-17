@@ -13,6 +13,8 @@
 
 [week 6](README.md#Progress-Report-6)
 
+[week 7](README.md#Progress-Report-7)
+
 ---
 # Progress Report 1 #
 
@@ -275,6 +277,10 @@ After solidfying our ideda, we then go to working on our proposal. We decided to
 ![FullSizeRender](https://github.com/user-attachments/assets/f2502d82-1100-43ec-a7a8-aa7d2dac6f25)
 
 Above, we have a sketch of our system and how the different components interact with each other. My main role for the project will be to figure out how to use the Cloud to have the button from the sender trigger the LED on the penguin. 
+
+# Progress Report 6 #
+
+
 
 ****
 ---
