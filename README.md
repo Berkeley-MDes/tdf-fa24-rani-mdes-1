@@ -298,6 +298,8 @@ After wiring the button, I then cleaned up the file that was given in the tutori
 
 ![console](https://github.com/user-attachments/assets/095da899-03da-4aa9-acd3-e11fe68dd4b0)
 
+# Progress Report 7 #
 
+....
 ****
 ---
