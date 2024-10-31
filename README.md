@@ -17,7 +17,7 @@
 
 [week 8](README.md#Progress-Report-8)
 
-[week 8](README.md#Progress-Report-9)
+[week 9](README.md#Progress-Report-9)
 
 ---
 # Progress Report 1 #
