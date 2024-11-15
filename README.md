@@ -19,6 +19,8 @@
 
 [week 9](README.md#Progress-Report-9)
 
+[week 10](README.md#Progress-Report-10)
+
 ---
 # Progress Report 1 #
 
@@ -314,6 +316,8 @@ After wiring the button, I then cleaned up the file that was given in the tutori
 This week was much more relaxing compared to past ones, so I don't have too much to reflect on here! I would say our cohort performed well/ the same as usual haha. Something I thought was nice was that during class when there was confusion on how LLMs function, many members put explanatory videos and articles in our group chat to help. Looking towards our project next week, I hope we can continue working together to understand the various components in the project. I think I performed less than last week, but that's mostly because we had way less to do. I spent time working on my project report and received assistance from my teammates while also giving my input, as well. Next week I hope to spend more time on class material. This week was dedicated to recovering from late nights working on project 2, but now I feel more rested and ready to tackle the new material.
 
 ## Speculations ##
+
+# Progress Report 10 #
 
 ....
 ****
