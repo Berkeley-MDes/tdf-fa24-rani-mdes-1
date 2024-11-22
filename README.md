@@ -21,6 +21,7 @@
 
 [week 10](README.md#Progress-Report-10)
 
+[week 11](README.md#Progress-Report-11)
 ---
 # Progress Report 1 #
 
@@ -319,6 +320,7 @@ This week was much more relaxing compared to past ones, so I don't have too much
 
 # Progress Report 10 #
 
+# Progress Report 11 #
 ....
 ****
 ---
