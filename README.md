@@ -22,6 +22,7 @@
 [week 10](README.md#Progress-Report-10)
 
 [week 11](README.md#Progress-Report-11)
+
 ---
 # Progress Report 1 #
 
