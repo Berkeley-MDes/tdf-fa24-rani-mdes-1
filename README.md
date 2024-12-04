@@ -342,6 +342,16 @@ We only partially figured out how to pur everything together, and encountered ma
 This week was much more relaxing compared to past ones, so I don't have too much to reflect on here! I would say our cohort performed well/ the same as usual haha. Something I thought was nice was that during class when there was confusion on how LLMs function, many members put explanatory videos and articles in our group chat to help. Looking towards our project next week, I hope we can continue working together to understand the various components in the project. I think I performed less than last week, but that's mostly because we had way less to do. I spent time working on my project report and received assistance from my teammates while also giving my input, as well. Next week I hope to spend more time on class material. This week was dedicated to recovering from late nights working on project 2, but now I feel more rested and ready to tackle the new material.
 
 ## Speculations ##
+I would speculate that LLMS could be interesting when interacting with each other. Right now we are building a singular LLM that does something on its own. I would be curious to see in the future, whether LLMs could "consult" each other, without the user specifying it. I'm also wondering if in the future there will be any sort of regulation on what data LLMs will have access to.
+
+## Thursday 10/31 ##
+
+For this week, we spent a lot of time working on zerowidth tutorials. I have never worked with LLMs Chat GPT models before, so this was an interesting exercise for me. First, I used th in class tutorial to get familiarized with the environment. I found that it was easy to navigated and not too difficult to understand. I also found that the modeling features matched up with Grasshopper. Below is a picture of E1, where I simply dragged components to create an initial model.
+![E1](https://github.com/user-attachments/assets/e5028f90-6c27-4219-be89-4246915cfc4f)
+
+After going through E2, I then got to add knowledge to the knowledge base. Ths was interesting to take data from this very weekly report as an information source for the model. I found that the accuracy was great depending on the questions that I asked. I think in the future it would be nice to adjust the chunk size or other features to improve this. Below is a screenshot of my E3. 
+![E3](https://github.com/user-attachments/assets/18ce3236-6690-47e0-bbfb-d7de4bb5d1bb)
+
 
 # Progress Report 10 #
 
