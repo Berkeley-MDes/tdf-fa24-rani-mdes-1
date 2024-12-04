@@ -317,8 +317,24 @@ After wiring the button, I then cleaned up the file that was given in the tutori
 # Progress Report 8 #
 
 ## Reflections ##
+This week was extremely stressful in trying to figure out how to complete our project. I would say I performed better than last week because of the extensive amount of time I put into working on everything. Some of the problem areas I faced included maintaining connection between the photon and the computer and successfully getting the servo to work. To troubleshoot, I consulted our professors and also watched tutorials on the Particle Photon. Next week, I am looking forward to starting on LLMs and wrapping up this project.
 
 ## Speculations ##
+This week we spent a considerable amount of time troubleshooting the connection between Particle Photon and the computer. For speculations, I think it would be interesting to consider microcontrollers that automatically are registered by computer softwares without any manual addition. This would make working with them much more efficient and useful.
+
+## Thursday 10/24 ##
+This week was very busy as we continued working on our project. We faced many challenges, including not being able to correctly attach the servo to beak of the penguin. We also worked on stuffing and de stuffing the penguin the right amount in order to fit the electronics inside correctly. Here is a progress picture of the de stuffed penguin.
+
+![yogurt](https://github.com/user-attachments/assets/da86f7fd-ca1f-4b61-b500-aa307114445c)
+
+Moreover, we realized that we needed to revise our draft diagram to more accurately match with what our project was doing. Below is a picture of the revised diagram.
+
+![draft_diagram](https://github.com/user-attachments/assets/15a2cb41-cc5a-483e-b8d8-56aa4561f999)
+
+We only partially figured out how to pur everything together, and encountered many issues with connecting the device to the Cloud. We needed to reset the photons multiple times, which proved to be extremely frustrating. Evnetually, we figured out that this could be sorted by simply using the VSCode of another cohort member. After figuring this out, we then got to creating our video. We included an animated introduction that explained Pebble's purpose. Below is an animated slide that talks about what penguin pebbling is.
+
+![Gifts3](https://github.com/user-attachments/assets/ece3b11f-b371-4566-93be-61582e12bab4)
+
 
 # Progress Report 9 #
 
