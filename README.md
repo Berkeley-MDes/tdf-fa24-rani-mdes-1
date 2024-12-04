@@ -180,6 +180,12 @@ I then translated these notes into a map. In this map, my phone shares informati
 
 # Progress Report 5 #
 
+## Reflections ##
+This week I spent more time with microcontrollers and using LEDs and buttons. This was somewhat of a refresher for me as I have encountered both in my previous studies. In terms of troubelshooting, I had a difficult time with compiling all of the files that were necessary. To troubleshoot, I consulted people in the maker space and watched tutorials. Next week, I hope to spend more time experimenting with these files.
+
+## Speculations ##
+This week we focused on microcontrollers and more coding files. For speculations, I would like to learn more about using the different ways I can make an LED flash. I would be see how flashing lights can be incoporated into different systems an alternative communication method for people.
+
 ## Monday 9/30 ##
 
 ### Flashing and Experimenting with Make It Blink ###
@@ -258,6 +264,12 @@ Consider the following:
 
 # Progress Report 6 #
 
+## Reflections ##
+This week was not as eventful for me, since we just finished our first project. For the video, I had to spend sometime remember what tools and visual methods are most effective to help teach the viewer about a product. This week we started learning about microcontrollers and coding. I have experience in both, but it was nice to have a refresher. For troubleshooting, I needed to look up more on visualizing ecosystems and converting that into a map. I also had difficuly setting up my Visual Code properly. I'm looking forward to next week and to solving this problem.
+
+## Speculations ##
+This week we focused on microcontrollers and our video presentations for our first project. For speculations, I would like to learn more about using Arduinos and different sensors that can be involved. I would be curious to learn more about how AI could interact more with our personal device ecosystem in the next 10 years.
+
 ## Monday 10/7 ##
 
 The first part of the assignment was to a soldering exercise. Because I have soldered before, it wasn't as challenging to do. The first two attempts were a little messier, and then afterwards I was able to achieve nice and even dots.
@@ -268,11 +280,6 @@ Downloading the Stemma files and running them proved to be somewhat challenging,
 
 ![IMG_5154](https://github.com/user-attachments/assets/dfb92c07-aaed-4a78-8cb1-aa31d4f79920)
 
-### System 1 ###
-
-
-
-### System 2 ###
 
 ## Thursday 10/10 ##
 
