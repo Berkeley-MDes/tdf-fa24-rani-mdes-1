@@ -265,10 +265,10 @@ Consider the following:
 # Progress Report 6 #
 
 ## Reflections ##
-This week was not as eventful for me, since we just finished our first project. For the video, I had to spend sometime remember what tools and visual methods are most effective to help teach the viewer about a product. This week we started learning about microcontrollers and coding. I have experience in both, but it was nice to have a refresher. For troubleshooting, I needed to look up more on visualizing ecosystems and converting that into a map. I also had difficuly setting up my Visual Code properly. I'm looking forward to next week and to solving this problem.
+This week was eventful, as I spent time soldering and brainstorming for our group project. I have soldered before, but I have never needed to in order to make use of Stemma modules. I found that some of those modules were difficult to understand, especially figuring out what was needed in the wiring. For troubleshooting, I consulted other members in my cohort for help. I'm looking forward to next week to have better understanding of the sensors and tools necessary for Stemma.
 
 ## Speculations ##
-This week we focused on microcontrollers and our video presentations for our first project. For speculations, I would like to learn more about using Arduinos and different sensors that can be involved. I would be curious to learn more about how AI could interact more with our personal device ecosystem in the next 10 years.
+This week we started brainstorming our group project and looked into using an animatronic penguin. While this isn't directly in the curriculum, I think it is interesting to touch on for further applications. I could see in the future, how more kids would have animatronic stuffed animals that interact with them, rather than normal stuffed toys. I am curious to see whether this develops in the next few years.
 
 ## Monday 10/7 ##
 
@@ -302,6 +302,7 @@ I think I performed better than last week. I have some background knowledge work
 For next steps in my part of the project (connecting the button and LED via the cloud), I plan to connect my code and electronics to my teammate's laptop to see if it works using her VSCode.
 
 ## Speculations ##
+I think that cloud environments are helpful for understanding the communciation between multiple devices. For speculations I would be curious to see how this is implemented further in communication between networks on Earth and those in Space.
 
 ## Project 2 Progress ##
 
