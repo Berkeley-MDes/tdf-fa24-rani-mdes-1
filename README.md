@@ -246,22 +246,6 @@ This tutorial was way easier to follow. I simply circuited my board according to
 ![IMG_5125 2](https://github.com/user-attachments/assets/87452234-5926-491a-8cc5-fa9b2f0318b7)
 
 
-Work through any 3 of the step-by-step tutorials listed here. Note, as shared in class, that if you choose a tutorial with a servo motor you will need to obtain this from either Sudhu, Fareha, or Baurzhan.
-Consider the following:
-- how do these demo projects differ from what we've looked at already in the prior examples?
-- What are some similarities?
-- How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
-- Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
-
-#### tutorial 3 ####
-
-    Work through any 3 of the step-by-step tutorials listed here. Note, as shared in class, that if you choose a tutorial with a servo motor you will need to obtain this from either Sudhu, Fareha, or Baurzhan.
-Consider the following:
-- how do these demo projects differ from what we've looked at already in the prior examples?
-- What are some similarities?
-- How might the demonstrations be expanded to include a new feature? What is the feature that would be most relevant to your life?
-- Can you imagine the examples being combined into a larger ecosystem? What would that system look like?
-
 # Progress Report 6 #
 
 ## Reflections ##
