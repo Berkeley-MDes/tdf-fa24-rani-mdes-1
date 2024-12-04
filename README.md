@@ -339,7 +339,7 @@ After going through E2, I then got to add knowledge to the knowledge base. Ths w
 # Progress Report 10 #
 
 ## Reflections ##
-This was a very stressful week since we needed to complete our video for the LLM project. For my project, since I am not at interested in LLMs, I deicded to go for level 1. In this sense, my performance was less than the previous project. However, compared to last week, I would say I performed much better. In terms of difficulties, I had a hard time making my knwoledge base better, My classmates were a helpful sources here, and gave me tips that I could use. Next week I hope to spend more time on class material. This week was dedicated to recovering from late nights working on project 2, but now I feel more rested and ready to tackle the new material.
+This was a very stressful week since we needed to complete our video for the LLM project. For my project, since I am not at interested in LLMs, I deicded to go for level 1. In this sense, my performance was less than the previous project. However, compared to last week, I would say I performed much better. In terms of difficulties, I had a hard time making my knwoledge base better, My classmates were a helpful sources here, and gave me tips that I could use. Next week I hope to spend more time on class material.
 
 ## Speculations ##
 This week I spent a lot of time making my knowledg base better. For speculations, I am interested in learning more about how knowledge bases can be incorporated into class environments. It would be interesting to see how teachers could use a knowledge base and model that can answer students questions for them without them physically being present.
@@ -353,6 +353,21 @@ After going through E2, I then got to add knowledge to the knowledge base. Ths w
 ![E3](https://github.com/user-attachments/assets/18ce3236-6690-47e0-bbfb-d7de4bb5d1bb)
 
 # Progress Report 11 #
+
+## Reflections ##
+This was a very stressful week since we needed to complete our video for the LLM project. For my project, since I am not at interested in LLMs, I deicded to go for level 1. In this sense, my performance was less than the previous project. However, compared to last week, I would say I performed much better. In terms of difficulties, I had a hard time making my knwoledge base better, My classmates were a helpful sources here, and gave me tips that I could use. Next week I hope to spend more time on class material.
+
+## Speculations ##
+This week I spent a lot of time making my knowledg base better. For speculations, I am interested in learning more about how knowledge bases can be incorporated into class environments. It would be interesting to see how teachers could use a knowledge base and model that can answer students questions for them without them physically being present.
+
+## Thursday 11/07 ##
+
+For this week, we spent a lot of time working on zerowidth tutorials. I have never worked with LLMs Chat GPT models before, so this was an interesting exercise for me. First, I used th in class tutorial to get familiarized with the environment. I found that it was easy to navigated and not too difficult to understand. I also found that the modeling features matched up with Grasshopper. Below is a picture of E1, where I simply dragged components to create an initial model.
+![E1](https://github.com/user-attachments/assets/e5028f90-6c27-4219-be89-4246915cfc4f)
+
+After going through E2, I then got to add knowledge to the knowledge base. Ths was interesting to take data from this very weekly report as an information source for the model. I found that the accuracy was great depending on the questions that I asked. I think in the future it would be nice to adjust the chunk size or other features to improve this. Below is a screenshot of my E3. 
+![E3](https://github.com/user-attachments/assets/18ce3236-6690-47e0-bbfb-d7de4bb5d1bb)
+
 ....
 ****
 ---
