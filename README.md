@@ -355,18 +355,18 @@ After going through E2, I then got to add knowledge to the knowledge base. Ths w
 # Progress Report 11 #
 
 ## Reflections ##
-This was a very stressful week since we needed to complete our video for the LLM project. For my project, since I am not at interested in LLMs, I deicded to go for level 1. In this sense, my performance was less than the previous project. However, compared to last week, I would say I performed much better. In terms of difficulties, I had a hard time making my knwoledge base better, My classmates were a helpful sources here, and gave me tips that I could use. Next week I hope to spend more time on class material.
+This week was super stressful as I completed my project. Compared to last week, I would say I performed much better. I learned more about LLMs and using zerowidth + a knowledge base. In terms of difficulties, I had a hard time adjusting the chunk size and adding in multiple variables. My classmates were a helpful sources here, and gave me tips that I could use. I also spent more time looking at the tutorial that was posted. Next week I hope to spend more time on class material.
 
 ## Speculations ##
-This week I spent a lot of time making my knowledg base better. For speculations, I am interested in learning more about how knowledge bases can be incorporated into class environments. It would be interesting to see how teachers could use a knowledge base and model that can answer students questions for them without them physically being present.
+This week I spent even more time making my knowledg base better. For speculations, I am interested in learning more about how LLMs and knowledge bases can be integrated into clothing. I am curious to see how these LLMs can be used to give more information on a garment and help a user understand what a garment is trying to communicate, perhaps through audio coming from the piece that is then translated.
 
 ## Thursday 11/07 ##
 
-For this week, we spent a lot of time working on zerowidth tutorials. I have never worked with LLMs Chat GPT models before, so this was an interesting exercise for me. First, I used th in class tutorial to get familiarized with the environment. I found that it was easy to navigated and not too difficult to understand. I also found that the modeling features matched up with Grasshopper. Below is a picture of E1, where I simply dragged components to create an initial model.
-![E1](https://github.com/user-attachments/assets/e5028f90-6c27-4219-be89-4246915cfc4f)
+For my LLM Model, I wanted to make an advanced knowledge base. To do this, I included a pdf of my project 2, more information from my weekly report, and another pdf with an explanation of what I've achieved in the class. I experimented multiple times with changing the temperature and chunk size to make more accurate responses. After doing this, I found that my responses were much more accurate. Below is a screenshot I am including in my video that shows the updated, more accurate response.
+![E5_particle_AFTER](https://github.com/user-attachments/assets/31dcdefe-bac6-44d6-9cb2-43b4a835f587)
 
-After going through E2, I then got to add knowledge to the knowledge base. Ths was interesting to take data from this very weekly report as an information source for the model. I found that the accuracy was great depending on the questions that I asked. I think in the future it would be nice to adjust the chunk size or other features to improve this. Below is a screenshot of my E3. 
-![E3](https://github.com/user-attachments/assets/18ce3236-6690-47e0-bbfb-d7de4bb5d1bb)
+I also decided to add keywords in my report that would help the LLM better understand that I have an interest in wearable technology. I highlighted these words in my pdf and my report and added a few extra sentences on my interest. After this, the LLM was much better able to register my interest and incorporate it into its response. Here is a picture of the updated response.
+![E5_wearable_keywords](https://github.com/user-attachments/assets/906f01ae-2437-4c00-8a28-1da48a3000df)
 
 ....
 ****
