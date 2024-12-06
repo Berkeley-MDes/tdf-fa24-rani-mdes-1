@@ -23,6 +23,8 @@
 
 [week 11](README.md#Progress-Report-11)
 
+[week 12](README.md#Progress-Report-12)
+
 ---
 # Progress Report 1 #
 
@@ -353,6 +355,22 @@ After going through E2, I then got to add knowledge to the knowledge base. Ths w
 ![E3](https://github.com/user-attachments/assets/18ce3236-6690-47e0-bbfb-d7de4bb5d1bb)
 
 # Progress Report 11 #
+
+## Reflections ##
+This week was super stressful as I completed my project. Compared to last week, I would say I performed much better. I learned more about LLMs and using zerowidth + a knowledge base. In terms of difficulties, I had a hard time adjusting the chunk size and adding in multiple variables. My classmates were a helpful sources here, and gave me tips that I could use. I also spent more time looking at the tutorial that was posted. Next week I hope to spend more time on class material.
+
+## Speculations ##
+This week I spent even more time making my knowledg base better. For speculations, I am interested in learning more about how LLMs and knowledge bases can be integrated into clothing. I am curious to see how these LLMs can be used to give more information on a garment and help a user understand what a garment is trying to communicate, perhaps through audio coming from the piece that is then translated.
+
+## Thursday 11/07 ##
+
+For my LLM Model, I wanted to make an advanced knowledge base. To do this, I included a pdf of my project 2, more information from my weekly report, and another pdf with an explanation of what I've achieved in the class. I experimented multiple times with changing the temperature and chunk size to make more accurate responses. After doing this, I found that my responses were much more accurate. Below is a screenshot I am including in my video that shows the updated, more accurate response.
+![E5_particle_AFTER](https://github.com/user-attachments/assets/31dcdefe-bac6-44d6-9cb2-43b4a835f587)
+
+I also decided to add keywords in my report that would help the LLM better understand that I have an interest in wearable technology. I highlighted these words in my pdf and my report and added a few extra sentences on my interest. After this, the LLM was much better able to register my interest and incorporate it into its response. Here is a picture of the updated response.
+![E5_wearable_keywords](https://github.com/user-attachments/assets/906f01ae-2437-4c00-8a28-1da48a3000df)
+
+# Progress Report 12 #
 
 ## Reflections ##
 This week was super stressful as I completed my project. Compared to last week, I would say I performed much better. I learned more about LLMs and using zerowidth + a knowledge base. In terms of difficulties, I had a hard time adjusting the chunk size and adding in multiple variables. My classmates were a helpful sources here, and gave me tips that I could use. I also spent more time looking at the tutorial that was posted. Next week I hope to spend more time on class material.
