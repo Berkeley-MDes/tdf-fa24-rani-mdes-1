@@ -373,18 +373,20 @@ I also decided to add keywords in my report that would help the LLM better under
 # Progress Report 12 #
 
 ## Reflections ##
-This week was super stressful as I completed my project. Compared to last week, I would say I performed much better. I learned more about LLMs and using zerowidth + a knowledge base. In terms of difficulties, I had a hard time adjusting the chunk size and adding in multiple variables. My classmates were a helpful sources here, and gave me tips that I could use. I also spent more time looking at the tutorial that was posted. Next week I hope to spend more time on class material.
+This week was very very stressful since I did not realize that the project is actually due next week. I would say I performed better compared to last week. I spent a lot of time working on the mechanical aspect of my garment and making it move in a smooth fashion. I learned how to 3D print pieces to do this. In terms of difficulties, I had a hard time stablizizing the servo in my garment. The specialists in the Maker Space were helpful in guiding me through modeling this in the best way.
 
 ## Speculations ##
-This week I spent even more time making my knowledg base better. For speculations, I am interested in learning more about how LLMs and knowledge bases can be integrated into clothing. I am curious to see how these LLMs can be used to give more information on a garment and help a user understand what a garment is trying to communicate, perhaps through audio coming from the piece that is then translated.
+This week I spent time making a kinetic garment. For speculations, I am interested in learning what role kinetic fashion will play in the future. I think that mechanical garments will be a form of expression for users in the future. Wearers can use these pieces to convey emotion or to assist them is some fort of activity. I can also imagine that there will be more emphasis on making something that is aesthetically pleasing while also mechanical. 
 
 ## Thursday 11/07 ##
 
-For my LLM Model, I wanted to make an advanced knowledge base. To do this, I included a pdf of my project 2, more information from my weekly report, and another pdf with an explanation of what I've achieved in the class. I experimented multiple times with changing the temperature and chunk size to make more accurate responses. After doing this, I found that my responses were much more accurate. Below is a screenshot I am including in my video that shows the updated, more accurate response.
-![E5_particle_AFTER](https://github.com/user-attachments/assets/31dcdefe-bac6-44d6-9cb2-43b4a835f587)
+I spent a lot of time developing these 3D printed attachments for my garment. The attachment has holes all around them, walls to keep the servo in place, and a lever to move the ruffles up and down. I also designed it so that the screw fits directly on top, keeping the servo even more secure. I found that this first prototype was too flimsy and did not accurately push the fabric as far up as I wanted. Tomorrow I will create a new model to address this. Below is a picture of the current version. 
+![IMG_6012](https://github.com/user-attachments/assets/42e2d412-0ac4-42e8-b5b7-bdb4bd9bbecc)
 
-I also decided to add keywords in my report that would help the LLM better understand that I have an interest in wearable technology. I highlighted these words in my pdf and my report and added a few extra sentences on my interest. After this, the LLM was much better able to register my interest and incorporate it into its response. Here is a picture of the updated response.
-![E5_wearable_keywords](https://github.com/user-attachments/assets/906f01ae-2437-4c00-8a28-1da48a3000df)
+
+The next step for me was to create a ruffle piece that acts as a prototype. I used straws to extend the lever and make the pieces push the ruffle further up. I also temporarily pinned the 3d printed piece inside and tested it with my servos. I found that it moved up and down really well. Below is a picture.
+![IMG_6011](https://github.com/user-attachments/assets/f2851a2f-e236-41c8-93d9-bb32b87350d2)
+
 
 ....
 ****
